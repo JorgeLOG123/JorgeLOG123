@@ -1,16 +1,23 @@
-## Hi there 👋
+ Jorge L. Ordóñez Guevara
 
-<!--
-**JorgeLOG123/JorgeLOG123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer en formación (UNaB). Enfocado en **Python** como stack principal y **Java** como base/complemento.
+Estoy construyendo proyectos, practicando Git y aplicando **Clean Code / SOLID**.
 
-Here are some ideas to get you started:
+## En qué estoy ahora
+- 🚧 Mejorando mis proyectos y README (documentación + estructura)
+- 📚 Aprendiendo: Git/GitHub, SQL, buenas prácticas, APIs (próximo: FastAPI)
+- ✅ Hábito: commits chicos, frecuentes y con mensaje claro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- 📦 **Inventario (Java)**: CRUD por consola, POO, validaciones, manejo de errores
+- ✉️ **Sistema de correo (Python)** *(en progreso)*: POO + estructuras de datos + filtros
+
+## Stack
+- **Python** (principal) | **Java** (POO)
+- Git & GitHub | SQL (en curso)
+- Clean Code / SOLID (en práctica)
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/jorge-ordoñez-b38673271/
+- Email: jorgeluisordonezguevara@gmail.com
+
