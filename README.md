@@ -1,26 +1,28 @@
- Jorge L. Ordóñez Guevara
+## 👨‍💻 Jorge L. Ordóñez Guevara
 
-Backend developer en formación (UNaB). Enfocado en **Python** como stack principal y **Java** como base/complemento.
-Estoy construyendo proyectos, practicando Git y aplicando **Clean Code / SOLID**.
+Backend developer in training (UNaB). Focused on Python as my main stack and Java as a foundation/complement. I’m building projects, practicing Git, and applying Clean Code and SOLID principles.
 
-## En qué estoy ahora
-- 🚧 Mejorando mis proyectos y README (documentación + estructura)
-- 📚 Aprendiendo: Git/GitHub, SQL, buenas prácticas, APIs (próximo: FastAPI)
-- ✅ Hábito: commits chicos, frecuentes y con mensaje claro
+## 🚧 What I'm currently working on
 
-## Proyectos destacados
-- 📦 **Inventario (Java)**: CRUD por consola, POO, validaciones, manejo de errores
-- ✉️ **Sistema de correo (Python)** *(en progreso)*: POO + estructuras de datos + filtros
+- Improving my projects and READMEs (documentation + structure)
+- Learning: Git/GitHub, SQL, best practices, APIs (next: FastAPI)
+- Habit: small, frequent commits with clear messages
 
-## Stack
-- **Python** (principal) | **Java** (POO)
-- Git & GitHub | SQL (en curso)
-- Clean Code / SOLID (en práctica)
+## 📌 Featured Projects
 
-## Contacto
-- LinkedIn: https://www.linkedin.com/in/jorge-ordoñez-b38673271/
+- 📦 Inventory System (Java): Console-based CRUD, OOP, validations, error handling  
+- 💰 Expense Tracker (Python) (in progress): OOP + data structures + expense management logic  
+
+## 🛠️ Tech Stack
+
+- Python (main) | Java (OOP)  
+- Git & GitHub | SQL (learning)  
+- Clean Code / SOLID (in practice)  
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/jorge-ordoñez-b38673271/  
 - Email: jorgeluisordonezguevara@gmail.com
-
 ## 🛠️ Tecnologías
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
