@@ -21,3 +21,13 @@ Estoy construyendo proyectos, practicando Git y aplicando **Clean Code / SOLID**
 - LinkedIn: https://www.linkedin.com/in/jorge-ordoñez-b38673271/
 - Email: jorgeluisordonezguevara@gmail.com
 
+🔹 3. Versión un poco más pro (si querés destacar)
+
+Podés agregar badges (iconitos):
+
+## 🛠️ Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
