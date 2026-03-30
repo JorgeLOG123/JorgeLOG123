@@ -64,13 +64,6 @@ I'm currently focused on building real projects, strengthening my Git workflow, 
 
 ---
 
-## 📊 GitHub Stats
-
-![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeLOG123&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLOG123&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Contact
 
 - LinkedIn: [jorge-ordoñez-b38673271](https://www.linkedin.com/in/jorge-ordoñez-b38673271/)
