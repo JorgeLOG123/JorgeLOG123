@@ -1,10 +1,9 @@
-## 👨‍💻 Jorge L. Ordóñez Guevara
+# 👨‍💻 Jorge L. Ordóñez Guevara
+**Backend Developer in Training (UNaB) | Python & Java**
 
-Backend Developer in Training (UNaB) | Python & Java  
+I'm an IT trainee with a strong foundation in Python (basic–intermediate), Java (OOP), and Bash/Shell. I apply programming logic, data structures, and Clean Code principles in personal projects while continuously improving through a structured backend roadmap.
 
-I’m an IT trainee with a strong foundation in Python (basic–intermediate), Java (OOP), and Bash/Shell. I apply programming logic, data structures, and Clean Code principles in personal projects while continuously improving through a structured backend roadmap.
-
-I’m currently focused on building real projects, strengthening my Git workflow, and preparing for my first opportunity in backend development.
+I'm currently focused on building real projects, strengthening my Git workflow, and preparing for my first opportunity in backend development.
 
 ---
 
@@ -19,26 +18,34 @@ I’m currently focused on building real projects, strengthening my Git workflow
 
 ## 📌 Featured Projects
 
-- 📦 **Inventory System (Java)**  
+- 📦 **Inventory System (Java)**
   Console-based CRUD application applying OOP, collections, validations, and error handling.
 
-- 💰 **Expense Tracker (Python)** *(in progress)*  
+- 💰 **Expense Tracker (Python)** *(in progress)*
   Expense management system using OOP and data structures, focused on clean logic and scalability.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python (main), Java (OOP)  
-- **Tools:** Git, GitHub, Bash, Linux/Terminal  
-- **Concepts:** OOP, data structures, Clean Code, SOLID principles  
+- **Languages:** Python (main), Java (OOP)
+- **Tools:** Git, GitHub, Bash, Linux/Terminal
+- **Concepts:** OOP, data structures, Clean Code, SOLID principles
 
 ---
 
-## 📚 Currently Learning
+## 🗺️ Backend Roadmap
 
-- SQL (databases, queries, data modeling)  
-- FastAPI (REST API development with Python)  
+| Estado | Tecnología |
+|:------:|-----------|
+| ✅ | Python básico–intermedio |
+| ✅ | Java OOP |
+| ✅ | Git & GitHub |
+| ✅ | Clean Code & SOLID |
+| 🔄 | SQL & bases de datos |
+| 🔄 | FastAPI (REST APIs) |
+| ⬜ | PostgreSQL |
+| ⬜ | Docker |
 
 ---
 
@@ -57,7 +64,14 @@ I’m currently focused on building real projects, strengthening my Git workflow
 
 ---
 
+## 📊 GitHub Stats
+
+![Jorge's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeLOG123&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLOG123&layout=compact&theme=dark&hide_border=true)
+
+---
+
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/jorge-ordoñez-b38673271/  
+- LinkedIn: [jorge-ordoñez-b38673271](https://www.linkedin.com/in/jorge-ordoñez-b38673271/)
 - Email: jorgeluisordonezguevara@gmail.com
