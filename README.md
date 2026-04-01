@@ -57,14 +57,13 @@ print(me.say_hi())
 <!-- REPO CARDS DINÁMICAS — reemplaza la tabla estática, se actualizan solas -->
 <!-- ⚠️  Renombrá tus repos a estos nombres para que carguen automáticamente -->
 <a href="https://github.com/JorgeLOG123/inventory-system-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeLOG123&repo=inventory-system-java&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=JorgeLOG123&repo=inventory-system-java&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/JorgeLOG123/expense-tracker-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeLOG123&repo=expense-tracker-python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=JorgeLOG123&repo=expense-tracker-python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 </a>
 
 </div>
-
 
 
 ---
@@ -133,8 +132,8 @@ print(me.say_hi())
 <div align="center">
 
 <!-- FIX: width en píxeles exactos — GitHub no respeta % en atributos img -->
-<img src="https://github-readme-stats.vercel.app/api?username=JorgeLOG123&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLOG123&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="180" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=JorgeLOG123&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="180" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JorgeLOG123&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="180" />
 
 </div>
 
