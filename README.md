@@ -65,7 +65,7 @@ print(me.say_hi())
 
 </div>
 
-> 💡 Renombrá tus repos a `inventory-system-java` y `expense-tracker-python` para que las cards de arriba carguen automáticamente con descripción, estrellas y lenguaje.
+
 
 ---
 
