@@ -1,113 +1,137 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Jorge+%F0%9F%91%8B;Backend+Developer+in+Training;Python+%7C+Java+%7C+Clean+Code+%F0%9F%A7%B9;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Animated banner - replace with a custom banner image if you have one -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Jorge%20L.%20Ord%C3%B3%C3%B1ez%20Guevara&fontSize=38&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20in%20Training%20%7C%20Python%20%26%20Java&descAlignY=58&descSize=18&descColor=a8dadc" />
 
-<!-- PROFILE VIEWS + FOLLOWERS + LAST COMMIT -->
-![Profile Views](https://komarev.com/ghpvc/?username=JorgeLOG123&color=00d4ff&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/JorgeLOG123?style=flat-square&color=00d4ff&labelColor=0d1117&label=Followers)](https://github.com/JorgeLOG123)
-[![GitHub User's stars](https://img.shields.io/github/stars/JorgeLOG123?style=flat-square&color=ffd700&labelColor=0d1117)](https://github.com/JorgeLOG123)
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Trainee+IT+%7C+Python+%26+Java+Backend;Clean+Code+%7C+OOP+%7C+Data+Structures;Building+real+projects%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 👋 Hola, soy Jorge
 
 ```python
-class JorgeOrdoñez:
+class JorgeOrdonez:
     def __init__(self):
-        self.name        = "Jorge Luis Ordoñez Guevara"
-        self.role        = "Trainee IT | Backend Developer in Training"
-        self.location    = "Banfield, Buenos Aires 🇦🇷"
-        self.education   = "Tecnicatura en Programación @ UNaB (en curso)"
-        self.languages   = ["Python 🐍", "Java ☕", "Bash 🖥️"]
-        self.focus       = ["Clean Code", "OOP", "Backend Development"]
-        self.next_goal   = "Build & deploy my first REST API 🚀"
+        self.name       = "Jorge Luis Ordóñez Guevara"
+        self.role       = "Backend Developer in Training"
+        self.location   = "Banfield, Buenos Aires 🇦🇷"
+        self.education  = "Tecnicatura en Programación - UNaB"
+        self.languages  = ["Python", "Java", "Bash"]
+        self.learning   = ["Git/GitHub", "SQL", "FastAPI"]
+        self.goal       = "First backend role 🎯"
 
     def say_hi(self):
-        return "I turn coffee into code and chaos into clean architecture ☕"
+        print("Building clean, structured code — one commit at a time.")
 
-me = JorgeOrdoñez()
-print(me.say_hi())
+me = JorgeOrdonez()
+me.say_hi()
 ```
 
----
-
-## 🚧 What I'm Currently Working On
-
-- 🔨 **Refining projects** — better READMEs, cleaner structure, real documentation
-- 📚 **Learning:** Git & GitHub → SQL → FastAPI → First REST API deployed
-- 🧠 **Habit:** small, frequent commits with meaningful messages
-- 🎯 **Next milestone:** REST API with FastAPI + PostgreSQL published on GitHub
+<br clear="right"/>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Sobre mí
+
+- 🎓 Cursando la **Tecnicatura en Programación** en **UNaB** (2023 – en curso)
+- 🏅 Certificaciones **MoureDev**: Python Básico & Intermedio · Java OOP · Bash/Shell
+- 💻 Aplico **OOP, Clean Code y SOLID** en proyectos propios
+- 🛠️ Actualmente construyendo: **Expense Tracker** (Python) & aprendiendo **FastAPI**
+- 🌱 Próximo en mi roadmap: **SQL → REST APIs → primer proyecto en producción**
+- 📬 Disponible para: **trainee / pasantía IT** — remoto o presencial GBA
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| 📦 **Inventory System** | Console-based CRUD app with OOP, collections, validations & error handling | Java · IntelliJ IDEA | ✅ Complete |
-| 💰 **Expense Tracker** | Expense management with OOP & data structures, focused on clean logic | Python · VS Code | 🔄 In Progress |
-| 🐍 **Python Roadmap** | Exercises from basic to intermediate: OOP, functional, files, packages | Python · PEP 8 | ✅ Complete |
-| ⚙️ **Bash Automation Scripts** | System automation with variables, loops, conditionals, pipes & permissions | Bash · Linux | ✅ Complete |
+**Lenguajes (certificados y practicados)**
 
-</div>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Tools & Environment
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Herramientas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 
-### Currently Learning
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**Conceptos aplicados**
+
+![OOP](https://img.shields.io/badge/OOP-blueviolet?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-0a9396?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-e9c46a?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-e76f51?style=for-the-badge)
+
+**Aprendiendo actualmente**
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Concepts & Principles
-![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-00D4FF?style=for-the-badge&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-7B2FBE?style=for-the-badge&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🗺️ Backend Roadmap 2026
+## 📌 Proyectos Destacados
 
 <div align="center">
 
-| Status | Technology | Level |
-|--------|-----------|-------|
-| ✅ | Python Básico + Intermedio | `██████████` 100% |
-| ✅ | Java OOP | `████████░░` 80% |
-| ✅ | Bash / Shell Scripting | `███████░░░` 70% |
-| ✅ | Clean Code & SOLID | `███████░░░` 70% |
-| ✅ | Linux / Terminal | `████████░░` 80% |
-| 🔄 | Git & GitHub | `██████░░░░` 60% |
-| 🔄 | SQL & Databases | `████░░░░░░` 40% |
-| 🔄 | FastAPI (REST APIs) | `███░░░░░░░` 30% |
-| ⬜ | PostgreSQL | `░░░░░░░░░░` 0% |
-| ⬜ | Docker | `░░░░░░░░░░` 0% |
-| ⬜ | Spring Boot | `░░░░░░░░░░` 0% |
+<a href="https://github.com/JorgeLOG123">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeLOG123&repo=inventory-system&theme=tokyonight&border_color=e94560&hide_border=false" />
+</a>
+<a href="https://github.com/JorgeLOG123">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeLOG123&repo=calculadora_de_gastos&theme=tokyonight&border_color=e94560&hide_border=false" />
+</a>
+
+</div>
+
+<br/>
+
+### 📦 Sistema de Inventario — Java
+
+> CRUD de consola completo aplicando **OOP, colecciones (List, Map, Set), validaciones y manejo de excepciones**. Separación de responsabilidades por paquetes, nomenclatura limpia y principios SOLID.
+
+`Java` `OOP` `IntelliJ IDEA` `Clean Code`
+
+---
+
+### 💰 Expense Tracker — Python *(en progreso)*
+
+> Sistema de gestión de gastos con **OOP y estructuras de datos**. Foco en lógica limpia, escalabilidad y buenas prácticas. Próxima feature: persistencia de datos con JSON/CSV.
+
+`Python` `OOP` `Data Structures` `PEP 8`
+
+---
+
+## 🗺️ Backend Roadmap
+
+<div align="center">
+
+| Estado | Tecnología / Habilidad |
+|:------:|------------------------|
+| ✅ | Python básico – intermedio |
+| ✅ | Java OOP |
+| ✅ | Bash / Shell scripting |
+| ✅ | Clean Code & SOLID principles |
+| ✅ | Estructuras de datos & algoritmos |
+| 🔄 | Git & GitHub (workflow real) |
+| 🔄 | SQL & bases de datos relacionales |
+| 🔄 | Lógica de programación avanzada |
+| ⬜ | FastAPI — REST APIs |
+| ⬜ | PostgreSQL |
+| ⬜ | Docker |
+| ⬜ | Primer proyecto API REST en producción 🎯 |
 
 </div>
 
@@ -117,85 +141,88 @@ print(me.say_hi())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JorgeLOG123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLOG123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeLOG123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=e94560&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeLOG123&layout=compact&langs_count=6&theme=tokyonight&border_color=e94560&hide_border=false"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JorgeLOG123&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6c37&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JorgeLOG123&theme=tokyonight&border=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏅 Certifications
+## 🏅 Certificaciones MoureDev
 
 <div align="center">
 
-| Certificate | Platform | Date |
-|------------|----------|------|
-| 🐍 Python Básico | MoureDev | Mar 2026 |
-| 🐍 Python Intermedio | MoureDev | Mar 2026 |
-| ☕ Java OOP | MoureDev | Feb 2026 |
-| 🖥️ Bash/Shell | MoureDev | Jan 2026 |
-| 🌐 Redes de Datos | UTN Buenos Aires | Aug 2023 |
-| 🔧 Armado y Reparación PC | UTN Buenos Aires | Aug 2023 |
+| Certificación | Fecha | Estado |
+|:-------------|:-----:|:------:|
+| 🐍 Python Básico | Mar 2026 | ✅ |
+| 🐍 Python Intermedio | Mar 2026 | ✅ |
+| ☕ Java OOP | Feb 2026 | ✅ |
+| 🖥️ Bash / Shell | Ene 2026 | ✅ |
+| 🔀 Git & GitHub | 2026 | 🔄 |
+| 🧠 Lógica de Programación | 2026 | 🔄 |
+| 🗄️ SQL | 2026 | 🔄 |
+| ⚙️ Fundamentos de Backend | 2026 | ⬜ |
 
 </div>
 
 ---
 
-## 📚 Learning Resources
+## 📚 Recursos que uso a diario
 
 <div align="center">
 
-[![MoureDev](https://img.shields.io/badge/MoureDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://mouredev.com)
-[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/backend)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org)
-[![Python Docs](https://img.shields.io/badge/Python.org-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Oracle Java](https://img.shields.io/badge/Oracle%20Docs-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://docs.oracle.com/en/java/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
+[![MoureDev](https://img.shields.io/badge/MoureDev-roadmap-e94560?style=flat-square&logo=youtube)](https://mouredev.com)
+[![roadmap.sh](https://img.shields.io/badge/roadmap.sh-backend-0a9396?style=flat-square)](https://roadmap.sh/backend)
+[![Python Docs](https://img.shields.io/badge/Python.org-docs-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org)
+[![Oracle Java](https://img.shields.io/badge/Oracle-Java%20Docs-ED8B00?style=flat-square&logo=oracle)](https://docs.oracle.com/en/java/)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0a0a23?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 📬 Contacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-ordoñez-b38673271)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeluisordonezguevara@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeLOG123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge%20Ord%C3%B3%C3%B1ez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-ordoñez-b38673271)
+[![Gmail](https://img.shields.io/badge/Gmail-jorgeluisordonezguevara%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgeluisordonezguevara@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JorgeLOG123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JorgeLOG123)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+<!-- Activity graph -->
+<div align="center">
 
-> *The snake is eating my contributions — enable it via GitHub Actions!*
+[![Jorge's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JorgeLOG123&theme=tokyo-night&bg_color=1a1a2e&color=e94560&line=e94560&point=a8dadc&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```
-⬜⬜🟩🟩🟩⬜⬜⬜🟩🟩🟩🟩⬜⬜⬜🟨🟨🟨⬜⬜⬜🟧🟧🟧⬜⬜⬜🟥🟥🟥
-```
+</div>
 
-<!-- To enable the real snake, add this GitHub Action:
-     https://github.com/Platane/snk
-     Workflow: .github/workflows/snake.yml
+---
+
+<!-- Snake animation - set this up with GitHub Actions -->
+<div align="center">
+
+<!-- Uncomment after setting up GitHub Action for snake animation:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JorgeLOG123/JorgeLOG123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JorgeLOG123/JorgeLOG123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JorgeLOG123/JorgeLOG123/output/github-snake.svg" />
+</picture>
 -->
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer&animation=fadeIn" />
 
-<div align="center">
-
-**"First, solve the problem. Then, write the code." — John Johnson**
-
-*Open to trainee / junior opportunities — remote or GBA 🇦🇷 — available immediately*
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+![Profile views](https://komarev.com/ghpvc/?username=JorgeLOG123&color=e94560&style=flat-square&label=Profile+Views)
 
 </div>
 
